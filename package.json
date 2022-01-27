@@ -24,7 +24,7 @@
 		"react-three-fiber": "^4.0.27",
 		"reactjs-swiper": "^0.1.0",
 		"tailwindcss": "^1.2.0",
-		"three": "^0.115.0"
+		"three": "^0.137.0"
 	},
 	"devDependencies": {
 		"@babel/cli": "7",
